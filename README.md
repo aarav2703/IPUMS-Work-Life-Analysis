@@ -6,7 +6,7 @@ This project aims to analyze the relationship between work-life balance and heal
 **Note:** This project includes static visualizations created in Google Colab, without an interactive dashboard.
 
 ### Links:
-- **Code Notebook**: [Work_Life_Balance_Health_Analysis.ipynb](https://colab.research.google.com/drive/your-notebook-link)
+- **Code Notebook**: [Work_Life_Balance_Health_Analysis.ipynb](https://colab.research.google.com/drive/10UBsMsuhwhNkfpIti8s_lvDbiJDOc_J5#scrollTo=7FlNPntv3Afg)
 
 ## Objectives
 - **Correlation Analysis**: Examine relationships between various health and work-related variables.
